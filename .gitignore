@@ -1,5 +1,6 @@
 # Large data files exceeding GitHub limits
 time-series-forecasting/total_sales_data.csv
+customer-segmentation/Instacart data/orders.csv
 
 # OS files
 .DS_Store
